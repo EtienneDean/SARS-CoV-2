@@ -1,0 +1,490 @@
+﻿Region,Country,Division,Unique Locations,Population Size,Area size (sqm),Year ,Source
+Africa,Burkina Faso,Hauts-Bassins,Bobo Dioulasso,903887,,2019,citypopulation.de
+Africa,Eq. Guinea,Bioko Norte,Baney,29366,,2015,Wikipedia
+Africa,Eq. Guinea,Bioko Norte,Malabo,155963,,2021,worlometers.info
+Africa,Eq. Guinea,Litoral,Bata,173046,,2021,worlometers.info
+Africa,Ghana,Greater Accra,Accra,2514000,,2020,macrotrends.net
+Africa,South Africa,Eastern Cape,Amathole,880790,,2016,municipalities.co.za
+Africa,South Africa,Eastern Cape,Nelson Mandela Bay,1319741,,2021,population.city
+Africa,South Africa,Eastern Cape,Sarah Baartman,479923,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,Amajuba,531327,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,Berea,102920,,2011,SA Census 2011
+Africa,South Africa,KwaZulu-Natal,eThekwini,3834753,,2021,population.city
+Africa,South Africa,KwaZulu-Natal,Harry Gwala,510865,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,iLembe,657612,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,King Cetshwayo,971135,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,Ugu,753336,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,Umbilo,11311,,2001,Wikipedia
+Africa,South Africa,KwaZulu-Natal,uMgungundlovu,1095865,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,uMkhanyakude,689090,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,uMzinyathi,554882,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,uThukela,706588,,2016,municipalities.co.za
+Africa,South Africa,KwaZulu-Natal,Zululand,892310,,2016,municipalities.co.za
+Africa,South Africa,Western Cape Province,Bitou,82822,,2021,population.city
+Africa,South Africa,Western Cape Province,Cape Town,4836314,,2021,population.city
+Africa,South Africa,Western Cape Province,Cape Town Metro,11916,,2011,SA Census 2011
+Africa,South Africa,Western Cape Province,George,251003,,2021,population.city
+Africa,South Africa,Western Cape Province,Klipfontein,410338,,2020,westerncape.gov.za
+Africa,South Africa,Western Cape Province,Knysna,90594,,2021,population.city
+Africa,South Africa,Western Cape Province,Mossel Bay,111866,,2021,population.city
+Africa,South Africa,Western Cape Province,Oudtshoorn,108666,,2021,population.city
+Africa,South Africa,Western Cape Province,West Coast,436403,,2016,municipalities.co.za
+Asia,Bangladesh,Chattogram,Brahmanbaria,3729989,,2021,population.city
+Asia,Bangladesh,Chattogram,Chandpur,3033027,,2021,population.city
+Asia,Bangladesh,Dhaka,Narayanganj,3658027,,2021,population.city
+Asia,Bangladesh,Khulna,Jashore,3318750,,2021,population.city
+Asia,Bangladesh,Sylhet,Habiganj,2725224,,2021,population.city
+Asia,Bangladesh,Sylhet,Moulvibazar,2404250,,2021,population.city
+Asia,China,Guangdong,Guangzhou,14384577,,2021,population.city
+Asia,China,Guangdong,Shenzhen,17352233,,2021,population.city
+Asia,China,Hubei,Wuhan,8468080,,2021,population.city
+Asia,China,Shandong,Qingdao,5517135,,2021,population.city
+Asia,China,Zhejiang,Hangzhou,8613806,,2021,population.city
+Asia,Hong Kong,Hong Kong,Hong Kong,7617781,,2021,population.city
+Asia,India,Delhi,New Delhi,161885,,2020,censusindia.gov.in
+Asia,India,Gujarat,Ahmedabad,7868633,,2020,population.un.org
+Asia,India,Gujarat,Choryasi,1153,,2011,census2011.co.in
+Asia,India,Gujarat,Daskroi,371616,,2020,indiagrowing.com
+Asia,India,Gujarat,Gandhinagar,1391753,,2011,citypopulation.de
+Asia,India,Gujarat,Jamnagar,648404,,2021,population.city
+Asia,India,Gujarat,Modasa,67648,,2011,census2011.co.in
+Asia,India,Gujarat,Patan,133737,,2011,census2011.co.in
+Asia,India,Gujarat,Rajkot,1928066,,2021,population.city
+Asia,India,Gujarat,Surat,7497309,,2021,population.city
+Asia,India,Gujarat,Vadodara,2226955,,2021,population.city
+Asia,India,Haryana,Faridabad,1893613,,2021,population.city
+Asia,India,Haryana,Gurugram,3556534,,2021,population.city
+Asia,India,Haryana,Palwal,128730,,2011,census2011.co.in
+Asia,India,Haryana,Panchkula,316984,,2021,population.city
+Asia,India,Karnataka,Bengaluru Urban,12733228,,2021,population.city
+Asia,India,Maharashtra,Aurangabad,1595154,,2021,population.city
+Asia,India,Maharashtra,Mumbai,20589317,,2021,population.city
+Asia,India,Maharashtra,Raigad,2634200,,2011,census2011.co.in
+Asia,India,Maharashtra,Thane,11060148,,2011,census2011.co.in
+Asia,India,Tamil Nadu,Chennai,11414735,,2021,population.city
+Asia,India,Telangana,Hyderabad,10264061,,2021,population.city
+Asia,India,Telangana,Karimnagar,405286,,2021,population.city
+Asia,India,Telangana,Nalgonda,213831,,2021,population.city
+Asia,India,Telangana,Nizamabad,335325,,2021,population.city
+Asia,India,Telangana,Rangareddy,5296741,,2011,census2011.co.in
+Asia,India,Uttar Pradesh,Lucknow,3752799,,2021,population.city
+Asia,India,Uttarakhand,Dehradun,940309,,2021,population.city
+Asia,India,Uttarakhand,Haridwar,437539,,2021,population.city
+Asia,India,Uttarakhand,Tehri Garhwal,618931,,2011,census2011.co.in
+Asia,India,West Bengal,Howrah,2110640,,2020,indiapopulation2020.in
+Asia,India,West Bengal,Kolkata,14965292,,2021,population.city
+Asia,India,West Bengal,North 24 Parganas,10660115,,2019,indiagrowing.com
+Asia,Indonesia,East Java,Surabaya,2972091,,2021,worldpopulationreview.com
+Asia,Israel,Central District,Kfar Saba,110882,,2021,population.city
+Asia,Israel,Haifa District,Haifa,292055,,2021,population.city
+Asia,Israel,Jerusalem District,Jerusalem,968254,,2021,population.city
+Asia,Israel,South District,South Coast District,1330600,,2019,citypopulation.de
+Asia,Israel,Tel Aviv District,Bnei Brak,214364,,2021,population.city
+Asia,Israel,Tel Aviv District,Tel-Aviv,460680,,2021,population.city
+Asia,Japan,Aichi,Nagoya,2298980,,2021,population.city
+Asia,Oman,South Batinah,Barka,181630,,2020,citypopulation.de
+Asia,Saudi Arabia,Eastern Province,Qatif,166603,,2021,population.city
+Asia,Singapore,Singapore,Singapore,5685807,,2020,citypopulation.de
+Asia,Taiwan,Taiwan,Taipei,2602418,,2020,citypopulation.de
+Asia,Taiwan,Taiwan,Taoyuan,2268807,,2020,citypopulation.de
+Asia,Vietnam,Red River Delta,Hanoi,3605364,,2020,citypopulation.de
+Europe,Austria,Tyrol,Innsbruck,138842,,2021,population.city
+Europe,Austria,Tyrol,Ischgl,1604,,2019,citypopulation.de
+Europe,Austria,Tyrol,Mayrhofen,3937,,2019,ugeo.urbistat.com
+Europe,Belgium,Antwerpen,Deurne,78747,,2017,Wikipedia
+Europe,Belgium,Antwerpen,Merksem,44457,,2017,Wikipedia
+Europe,Belgium,Brussels,Bruxelles,199658,,2021,population.city
+Europe,Belgium,Halle-Vilvoorde,Hoeilaart,11408,,2020,citypopulation.de
+Europe,Belgium,Halle-Vilvoorde,Nossegem,1368,,2020,citypopulation.de
+Europe,Belgium,Halle-Vilvoorde,Overijse,25193,,2021,population.city
+Europe,Belgium,Leuven,Bost,1589,,2020,citypopulation.de
+Europe,Belgium,Leuven,Heverlee,11099,,2018,statbel.fgov.be
+Europe,Belgium,Leuven,Holsbeek,4420,,2020,citypopulation.de
+Europe,Belgium,Leuven,Huldenberg,9892,,2018,statbel.fgov.be
+Europe,Belgium,Leuven,Kessel-Lo,30317,,2020,citypopulation.de
+Europe,Belgium,Leuven,Tervuren,21822,,2021,population.city
+Europe,Belgium,Leuven,Tienen,35707,,2021,population.city
+Europe,Belgium,Leuven,Wilsele,9786,,2016,Wikipedia
+Europe,Belgium,Leuven,Winksele,913,,2020,citypopulation.de
+Europe,Belgium,Tournai-Mouscron,Mouscron,60110,,2021,population.city
+Europe,Belgium,Turnhout,Mol,37666,,2021,population.city
+Europe,Czech Republic,South Moravian Region,Brno,373823,,2021,population.city
+Europe,Czech Republic,Usti nad Labem,Litom??ice ,23762,,2021,population.city
+Europe,Denmark,Faroe Islands,Faroe Islands,48425,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Bourg-en-Bresse,39575,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Chambery,59170,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Clermont-Ferrand,145369,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Grenoble,161180,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Lyon,542684,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Macon,31277,,2021,population.city
+Europe,France,Auvergne-Rhône-Alpes,Saint-Etienne,172565,,2017,Wikipedia
+Europe,France,Auvergne-Rhône-Alpes,Saint-Julien-en-Genevois,14258,,2017,insee.fr
+Europe,France,Bretagne,Brest,134356,,2021,population.city
+Europe,France,Bretagne,Chateaulin,5214,,2017,insee.fr
+Europe,France,Bretagne,Quimper,62292,,2021,population.city
+Europe,France,Bretagne,Rennes,213394,,2021,population.city
+Europe,France,Centre-Val de Loire,Angers,145326,,2021,population.city
+Europe,France,Grand Est,Epinal,30430,,2021,population.city
+Europe,France,Grand Est,Reims,179036,,2021,population.city
+Europe,France,Grand Est,Troyes,56877,,2021,population.city
+Europe,France,Hauts de France,Compiegne,37163,,2021,population.city
+Europe,France,Hauts de France,Lille,233897,,2021,population.city
+Europe,France,Ile de France,Longjumeau,22810,,2021,population.city
+Europe,France,Ile de France,Paris,2328902,,2021,population.city
+Europe,France,Ile de France,Puteaux,45466,,2021,population.city
+Europe,France,Nouvelle-Aquitaine,Bordeaux,252686,,2021,population.city
+Europe,France,Nouvelle-Aquitaine,Limoges,131559,,2021,population.city
+Europe,France,Nouvelle-Aquitaine,Poitiers,84826,,2021,population.city
+Europe,France,Occitanie,Montpellier,297188,,2021,population.city
+Europe,France,Occitanie,Nimes,152728,,2021,population.city
+Europe,France,Occitanie,Toulouse,479384,,2021,population.city
+Europe,France,Pays de la Loire,Nantes,307707,,2021,population.city
+Europe,France,Provence-Alpes-Côte d'Azur,Marseille,852734,,2021,population.city
+Europe,France,Provence-Alpes-Côte d'Azur,Nice,334650,,2021,population.city
+Europe,Germany,Baden-Wuerttemberg,Tübingen ,97906,,2021,population.city
+Europe,Germany,Baden-Wuerttemberg,Tuttlingen,34124,,2021,population.city
+Europe,Germany,Baden-Wuerttemberg,Villingen-Schwenningen,85276,,2021,population.city
+Europe,Germany,Bavaria,Munich,1673282,,2021,population.city
+Europe,Germany,Hesse,Frankfurt,852635,,2021,population.city
+Europe,Germany,North Rhine Westphalia,Bielefeld,336962,,2021,population.city
+Europe,Germany,North Rhine Westphalia,Cologne,1128652,,2021,worldpopulationreview.com
+Europe,Germany,North Rhine Westphalia,Duesseldorf,650942,,2021,population.city
+Europe,Germany,North Rhine Westphalia,Essen,584857,,2021,population.city
+Europe,Germany,North Rhine Westphalia,Heinsberg,40744,,2021,population.city
+Europe,Ireland,Limerick,Limerick City,52094,,2021,population.city
+Europe,Italy,Apulia,Bari,355660,,2021,population.city
+Europe,Italy,Apulia,Brindisi,88330,,2021,population.city
+Europe,Italy,Apulia,Foggia,167034,,2021,population.city
+Europe,Italy,Apulia,Lecce,104814,,2021,population.city
+Europe,Italy,Basilicata,Matera,62257,,2021,population.city
+Europe,Italy,Lazio,Rome,3567376,,2021,population.city
+Europe,Italy,Marche,Ancona,103941,,2021,population.city
+Europe,Italy,Piedmont,Turin,956409,,2021,population.city
+Europe,Italy,Sicily,Palermo,729959,,2021,population.city
+Europe,Italy,Tuscany,Siena,56610,,2021,population.city
+Europe,Italy,Veneto,Padova,223399,,2021,population.city
+Europe,Italy,Veneto,Verona IT,278773,,2021,population.city
+Europe,Italy,Veneto,Vicenza,118652,,2021,population.city
+Europe,Luxembourg,Luxembourg,Luxembourg,140970,,2021,population.city
+Europe,North Macedonia,Eastern Region,Shtip,44952,,2021,population.city
+Europe,Poland,Malopolskie,Krakow,771911,,2021,population.city
+Europe,Portugal,Lisbon,Agualva,82700,,2019,citypopulation.de
+Europe,Portugal,Lisbon,Amadora,184106,,2019,citypopulation.de
+Europe,Portugal,Lisbon,Massamá,28112,,2011,citypopulation.de
+Europe,Portugal,Lisbon,Queluz,103399,,2021,worldpopulationreview.com
+Europe,Russia,Astrakhan Region,Astrakhan,547919,,2021,population.city
+Europe,Russia,Kamchatka Krai,Petropavlovsk-Kamchatsky,182508,,2021,population.city
+Europe,Russia,Krasnodar,Armavir,194904,,2021,population.city
+Europe,Russia,Krasnodar,Krasnodar,944095,,2021,population.city
+Europe,Russia,Moscow Oblast,Moscow,12606070,,2021,population.city
+Europe,Russia,Murmansk,Murmansk,292854,,2021,population.city
+Europe,Russia,Novgorod,Veliky Novgorod,225902,,2021,population.city
+Europe,Russia,Omsk,Azovo,5481,,2015,city-facts.com
+Europe,Russia,Omsk,Moskalenki,9339,,2017,gks.ru
+Europe,Russia,Omsk,Omsk,1197986,,2021,population.city
+Europe,Russia,Primorsky,Vladivostok,620036,,2021,population.city
+Europe,Russia,Pskov Oblast,Velikiye Luki,91934,,2021,population.city
+Europe,Russia,Saint-Petersburg,Saint Petersburg,5592704,,2021,population.city
+Europe,Russia,Sverdlovsk,Nizhny Tagil,350820,,2021,population.city
+Europe,Russia,Sverdlovsk,Verkhnyaya Pyshma,73829,,2021,population.city
+Europe,Russia,Sverdlovsk,Yekaterinburg,1527980,,2021,population.city
+Europe,Serbia,Raška District,Kraljevo,72629,,2021,population.city
+Europe,Serbia,Raška District,Novi Pazar,82852,,2021,population.city
+Europe,Serbia,South Ba?ka District,Novi Sad,521661,,2021,population.city
+Europe,Spain,Andalusia,Granada,229652,,2021,population.city
+Europe,Spain,Andalusia,Guadix,19091,,2021,population.city
+Europe,Spain,Andalusia,Málaga ,579904,,2021,population.city
+Europe,Spain,Andalusia,Maracena,21804,,2021,population.city
+Europe,Spain,Andalusia,Santa Fe ES,14986,,2018,ine.es
+Europe,Spain,Andalusia,Sevilla,693499,,2021,population.city
+Europe,Spain,Aragon,Alcañiz,15939,,2018,ine.es
+Europe,Spain,Aragon,Caspe,9525,,2018,ine.es
+Europe,Spain,Aragon,Teruel,35710,,2021,population.city
+Europe,Spain,Aragon,Zaragoza,638752,,2021,population.city
+Europe,Spain,Asturias,Oviedo,220898,,2021,population.city
+Europe,Spain,Balear Islands,Ibiza,52466,,2021,population.city
+Europe,Spain,Balear Islands,Inca,31255,,2021,population.city
+Europe,Spain,Balear Islands,Manacor,40069,,2021,population.city
+Europe,Spain,Balear Islands,Menorca,93397,,2019,Wikipedia
+Europe,Spain,Balear Islands,Palma de Mallorca,392291,,2021,population.city
+Europe,Spain,Balear Islands,Palma de Mallorca,392291,,2021,population.city
+Europe,Spain,Basque Country,Baracaldo,100435,,2018,ine.es
+Europe,Spain,Basque Country,Bizkaia,1159443,,2020,citypopulation.de
+Europe,Spain,Basque Country,Donostia-San Sebastian,186665,,2018,ine.es
+Europe,Spain,Basque Country,San Sebastian,186665,,2018,Wikipedia
+Europe,Spain,Basque Country,Vitoria-Gasteiz,249176,,2018,Wikipedia
+Europe,Spain,Canary Islands,Las Palmas de Gran Canaria,384655,,2021,population.city
+Europe,Spain,Cantabria,Santander,170352,,2021,population.city
+Europe,Spain,Castilla la Mancha,Albacete,173631,,2021,population.city
+Europe,Spain,Castilla y Leon,Astorga,10763,,2020,citypopulation.de
+Europe,Spain,Castilla y Leon,La Bañeza,10290,,2020,citypopulation.de
+Europe,Spain,Castilla y Leon,León ,125313,,2021,population.city
+Europe,Spain,Castilla y Leon,Villaobispo de las Regueras,6139,,2020,citypopulation.de
+Europe,Spain,Castilla y Leon,Villarejo de Orbigo,2975,,2020,citypopulation.de
+Europe,Spain,Catalunya,Badalona,212544,,2021,population.city
+Europe,Spain,Catalunya,Barcelona,1582436,,2021,population.city
+Europe,Spain,Catalunya,Mataro,126437,,2021,population.city
+Europe,Spain,Catalunya,Mollet del Valles,50850,,2021,population.city
+Europe,Spain,Catalunya,Santa Coloma de Gramenet,117228,,2021,population.city
+Europe,Spain,Comunitat Valenciana,Castellon de la Plana,168240,,2021,population.city
+Europe,Spain,Comunitat Valenciana,Gandia,73995,,2021,population.city
+Europe,Spain,Comunitat Valenciana,Sagunt,67173,,2020,citypopulation.de
+Europe,Spain,Comunitat Valenciana,Valencia ES,773442,,2021,population.city
+Europe,Spain,Extremadura,Arroyo de la Luz,5766,,2020,citypopulation.de
+Europe,Spain,Galicia,A Coruna,244244,,2021,population.city
+Europe,Spain,Galicia,Boiro,18844,,2018,citypopulation.de
+Europe,Spain,Galicia,Santiago de Compostela,96747,,2021,population.city
+Europe,Spain,La Rioja,Albelda de Iregua,3481,,2020,citypopulation.de
+Europe,Spain,La Rioja,Calahorra,23243,,2021,population.city
+Europe,Spain,La Rioja,Haro,11557,,2020,citypopulation.de
+Europe,Spain,La Rioja,Logrono,150258,,2021,population.city
+Europe,Spain,La Rioja,Santo Domingo de la Calzada,6276,,2020,citypopulation.de
+Europe,Spain,Madrid,Madrid,3088629,,2021,population.city
+Europe,Spain,Navarra,Cizur Menor,2324,,2020,citypopulation.de
+Europe,Spain,Navarra,Pamplona,203944,,2020,citypopulation.de
+Europe,Switzerland,Basel-Stadt,Basel,178511,,2021,population.city
+Europe,Switzerland,Basel-Stadt,Riehen,21078,,2021,population.city
+Europe,UK,England,Derbyshire,801496,,2021,population.city
+Europe,UK,England,London,9372610,,2021,population.city
+Europe,UK,England,South Yorkshire,1418695,,2021,population.city
+Europe,UK,Gibraltar,Gibraltar,33684,,2021,worldometers.info
+N. America,Canada,Ontario,Brampton,764155,,2021,population.city
+N. America,Canada,Ontario,Ottawa,1045223,,2021,population.city
+N. America,Canada,Ontario,Toronto,2853815,,2021,population.city
+N. America,Canada,Quebec,Monteregie,1507070,,2016,Canada census
+N. America,Costa Rica,Alajuela,Alajuela,42783,,2021,population.city
+N. America,Mexico,Baja California,Tijuana,1548673,,2021,population.city
+N. America,USA,Alaska,Anchorage,288000,1706.2,2019,census.gov
+N. America,USA,Alaska,Interior Alaska,110067,,2020,live.laborstats.alaska.gov
+N. America,USA,Alaska,Matanuska-Susitna Valley,108317,24601,2019,census.gov
+N. America,USA,Alaska,Southwest Alaska,42295,,2020,live.laborstats.alaska.gov
+N. America,USA,Arizona,Maricopa County,4485414,9196.8,2019,census.gov
+N. America,USA,Arizona,Pima County,1047279,9184.8,2019,census.gov
+N. America,USA,California,Alameda County,1671329,738.9,2019,census.gov
+N. America,USA,California,Contra Costa County,1153526,722.6,2019,census.gov
+N. America,USA,California,Humboldt County,135940,3567,2019,census.gov
+N. America,USA,California,Imperial County,180701,4175.5,2019,census.gov
+N. America,USA,California,Kern County,887641,8129.8,2019,census.gov
+N. America,USA,California,Los Angeles County,10081570,4057.1,2019,census.gov
+N. America,USA,California,Madera County,155433,2136.5,2019,census.gov
+N. America,USA,California,Marin County,259943,520.4,2019,census.gov
+N. America,USA,California,Orange County CA,3168044,790.4,2019,census.gov
+N. America,USA,California,San Bernardino County,2149031,20052,2019,census.gov
+N. America,USA,California,San Diego,1409573,325.1,2019,census.gov
+N. America,USA,California,San Diego County,3338330,4205.5,2019,census.gov
+N. America,USA,California,San Francisco County,874961,46.9,2019,census.gov
+N. America,USA,California,San Joaquin County,742603,1392,2019,census.gov
+N. America,USA,California,San Luis Obispo County,282165,3299.8,2019,census.gov
+N. America,USA,California,Santa Clara County,1927470,1290.9,2019,census.gov
+N. America,USA,California,Sonoma County,499772,1575.4,2019,census.gov
+N. America,USA,California,Tulare County,461898,4823.1,2019,census.gov
+N. America,USA,California,Ventura County,847263,1842.5,2019,census.gov
+N. America,USA,California,Yolo County,217352,1014.5,2019,census.gov
+N. America,USA,Connecticut,Fairfield County CT,943926,624.8,2019,census.gov
+N. America,USA,Connecticut,New Haven County,857513,604.3,2019,census.gov
+N. America,USA,Delaware,Kent County,176699,586.2,2019,census.gov
+N. America,USA,Delaware,New Castle County,556165,426.2,2019,census.gov
+N. America,USA,Delaware,Sussex County,224384,935.8,2019,census.gov
+N. America,USA,Florida,Miami-Dade County,2699428,1898.2,2019,census.gov
+N. America,USA,Hawaii,Hawaii County,199459,4027.4,2019,census.gov
+N. America,USA,Hawaii,Honolulu County,984821,600.4,2019,census.gov
+N. America,USA,Hawaii,Maui County,165979,1161.2,2019,census.gov
+N. America,USA,Illinois,Chicago,2709534,227.3,2019,census.gov
+N. America,USA,Illinois,Winnebago County IL,284819,513.3,2019,census.gov
+N. America,USA,Iowa,Allamakee County,13813,638.9,2019,census.gov
+N. America,USA,Iowa,Fayette County,19803,283.6,2019,census.gov
+N. America,USA,Iowa,Winneshiek County,20262,689.7,2019,census.gov
+N. America,USA,Louisiana,Bienville Parish,13564,811.1,2019,census.gov
+N. America,USA,Louisiana,Bossier Parish,126499,840,2019,census.gov
+N. America,USA,Louisiana,Caddo Parish,245831,878.3,2019,census.gov
+N. America,USA,Louisiana,Claiborne Parish,15985,754.7,2019,census.gov
+N. America,USA,Louisiana,DeSoto Parish,26656,,2020,suburbanstats.org
+N. America,USA,Louisiana,East Baton Rouge Parish,443763,455.2,2019,census.gov
+N. America,USA,Louisiana,Lincoln Parish,47246,471.6,2019,census.gov
+N. America,USA,Louisiana,Madison Parish,11306,624.3,2019,census.gov
+N. America,USA,Louisiana,New Orleans,390845,169.4,2019,census.gov
+N. America,USA,Louisiana,Ouachita Parish,155494,610.2,2019,census.gov
+N. America,USA,Louisiana,Rapides Parish,130970,1317.7,2019,census.gov
+N. America,USA,Louisiana,Red River Parish,8565,389,2019,census.gov
+N. America,USA,Louisiana,Sabine Parish,23991,866.4,2019,census.gov
+N. America,USA,Louisiana,Union Parish,22353,876.7,2019,census.gov
+N. America,USA,Louisiana,Webster Parish,39242,593,2019,census.gov
+N. America,USA,Minnesota,Houston County,18648,551.9,2019,census.gov
+N. America,USA,Minnesota,Winona County,50725,625.9,2019,census.gov
+N. America,USA,Missouri,St. Louis MO,996919,507.6,2019,census.gov
+N. America,USA,New Jersey,Bergen County,930390,232.7,2019,census.gov
+N. America,USA,New Jersey,Hudson County,670046,46.2,2019,census.gov
+N. America,USA,New York,Albany County,306968,522.7,2019,census.gov
+N. America,USA,New York,Bronx,1435068,42,2019,census.gov
+N. America,USA,New York,Brooklyn,2589974,70.82,2019,census.gov
+N. America,USA,New York,Broome County,193188,705.6,2019,census.gov
+N. America,USA,New York,Cattaraugus County,77121,1308,2019,census.gov
+N. America,USA,New York,Cayuga County,77425,691.4,2019,census.gov
+N. America,USA,New York,Chemung County,84895,407.2,2019,census.gov
+N. America,USA,New York,Chenango County,47909,893.4,2019,census.gov
+N. America,USA,New York,Clinton County,80583,1037.5,2019,census.gov
+N. America,USA,New York,Columbia County NY,60371,634.5,2019,census.gov
+N. America,USA,New York,Dutchess County,293754,795.4,2019,census.gov
+N. America,USA,New York,Erie County,919355,1042.4,2019,census.gov
+N. America,USA,New York,Essex County NY,37459,1793.6,2019,census.gov
+N. America,USA,New York,Fulton County,53646,495.3,2019,census.gov
+N. America,USA,New York,Greene County,47424,647,2019,census.gov
+N. America,USA,New York,Hamilton County,4515,1716.9,2019,census.gov
+N. America,USA,New York,Herkimer County,62057,1411.1,2019,census.gov
+N. America,USA,New York,Kings County NY,2589974,69.8,2019,census.gov
+N. America,USA,New York,Madison County NY,71205,654.7,2019,census.gov
+N. America,USA,New York,Manhattan,1631993,33.6,2019,census.gov
+N. America,USA,New York,Monroe County NY,743341,657,2019,census.gov
+N. America,USA,New York,Montgomery County NY,49302,403,2019,census.gov
+N. America,USA,New York,Nassau County,1356509,284.7,2019,census.gov
+N. America,USA,New York,New York City,8419316,301.4,2019,census.gov
+N. America,USA,New York,New York County,1631993,22.6,2019,census.gov
+N. America,USA,New York,Niagara County,210820,522.2,2019,census.gov
+N. America,USA,New York,Oneida County,229959,1212,2019,census.gov
+N. America,USA,New York,Onondaga County,462872,778.2,2019,census.gov
+N. America,USA,New York,Ontario County,109511,643.9,2019,census.gov
+N. America,USA,New York,Orange County NY,380085,812.1,2019,census.gov
+N. America,USA,New York,Oswego County,118339,951.4,2019,census.gov
+N. America,USA,New York,Otsego County,59972,1001.5,2019,census.gov
+N. America,USA,New York,Putnam County,98787,230.3,2019,census.gov
+N. America,USA,New York,Queens,2287388,108.7,2019,census.gov
+N. America,USA,New York,Rensselaer County,159185,652.3,2019,census.gov
+N. America,USA,New York,Rockland County,324422,173.4,2019,census.gov
+N. America,USA,New York,Saratoga County,228502,809.8,2019,census.gov
+N. America,USA,New York,Schenectady County,154859,204.5,2019,census.gov
+N. America,USA,New York,Staten Island,474893,58.2,2019,census.gov
+N. America,USA,New York,Steuben County,96422,1390.2,2019,census.gov
+N. America,USA,New York,Suffolk County,1483832,911.5,2019,census.gov
+N. America,USA,New York,Tioga County,48686,518.5,2019,census.gov
+N. America,USA,New York,Ulster County,178665,1123.9,2019,census.gov
+N. America,USA,New York,Warren County,64276,867,2019,census.gov
+N. America,USA,New York,Washington County NY,61616,830.9,2019,census.gov
+N. America,USA,New York,Wayne County,90519,603.7,2019,census.gov
+N. America,USA,New York,Westchester County,968890,430.4,2019,census.gov
+N. America,USA,New York,Wyoming County,40305,592.6,2019,census.gov
+N. America,USA,Oregon,Clackamas County,410463,1870.2,2019,census.gov
+N. America,USA,Oregon,Columbia County OR,51375,657.8,2019,census.gov
+N. America,USA,Oregon,Marion County OR,339641,1180.2,2019,census.gov
+N. America,USA,Oregon,Multnomah County,804606,431,2019,census.gov
+N. America,USA,Oregon,Wasco County,26130,2380.5,2019,census.gov
+N. America,USA,Oregon,Washington County OR,589481,724.1,2019,census.gov
+N. America,USA,Oregon,Yamhill County,104831,715.7,2019,census.gov
+N. America,USA,Pennsylvania,Allegheny County,1221744,729.9,2019,census.gov
+N. America,USA,Pennsylvania,Pittsburgh,302205,55.4,2019,census.gov
+N. America,USA,Puerto Rico,Ponce,113401,,2020,worldpopulationreview.com
+N. America,USA,South Carolina,Georgetown County,61952,813.4,2019,census.gov
+N. America,USA,South Carolina,Horry County,332172,1133.6,2019,census.gov
+N. America,USA,South Carolina,Richland County SC,411357,757,2019,census.gov
+N. America,USA,Texas,Bexar County,1952843,1239.5,2019,census.gov
+N. America,USA,Texas,Brazos County,222981,585.4,2019,census.gov
+N. America,USA,Texas,Cameron County,421666,890.8,2019,census.gov
+N. America,USA,Texas,Dallas County,2606868,872.8,2019,census.gov
+N. America,USA,Texas,El Paso County,836062,1012.9,2019,census.gov
+N. America,USA,Texas,Greater Houston Area,7191883,10000,2018,Wikipedia
+N. America,USA,Texas,Harris County,4646630,1704,2019,census.gov
+N. America,USA,Texas,Hays County,213366,677.8,2019,census.gov
+N. America,USA,Texas,Hidalgo County,855176,1570.5,2019,census.gov
+N. America,USA,Texas,Houston,2310432,647.4,2019,census.gov
+N. America,USA,Texas,Mclennan County,251089,1036.8,2019,census.gov
+N. America,USA,Texas,Nueces County,361540,838.1,2019,census.gov
+N. America,USA,Texas,Ochiltree County,10131,917.4,2019,census.gov
+N. America,USA,Texas,Parker County,133811,903.2,2019,census.gov
+N. America,USA,Texas,Smith County,227449,921.3,2019,census.gov
+N. America,USA,Texas,Titus County,32640,405.9,2019,census.gov
+N. America,USA,Texas,Travis County,1226805,991.5,2019,census.gov
+N. America,USA,Texas,Washington County TX,35163,603.8,2019,census.gov
+N. America,USA,Texas,Williamson County,547604,1118,2019,census.gov
+N. America,USA,Washington,Asotin County,22421,635.9,2019,census.gov
+N. America,USA,Washington,Benton County,265759,847.3,2019,census.gov
+N. America,USA,Washington,Clallam County,75392,1738.2,2019,census.gov
+N. America,USA,Washington,Clark County WA,473252,628.3,2019,census.gov
+N. America,USA,Washington,Franklin County WA,92009,1241.3,2019,census.gov
+N. America,USA,Washington,Grays Harbor County,72779,1900.8,2019,census.gov
+N. America,USA,Washington,King County,2195502,2115,2019,census.gov
+N. America,USA,Washington,Mason County,63804,959.1,2019,census.gov
+N. America,USA,Washington,Pacific County,21688,932.5,2019,census.gov
+N. America,USA,Washington,Pierce County WA,877013,1668.1,2019,census.gov
+N. America,USA,Washington,Skagit County,125612,1729.7,2019,census.gov
+N. America,USA,Washington,Snohomish County,798808,2086,2019,census.gov
+N. America,USA,Washington,Spokane County,505505,1763.5,2019,census.gov
+N. America,USA,Washington,Thurston County,279711,722.3,2019,census.gov
+N. America,USA,Washington,Walla Walla County,60365,1269.7,2019,census.gov
+N. America,USA,Washington,Whatcom County,220821,2107.3,2019,census.gov
+N. America,USA,Washington,Yakima County,249697,4293.4,2019,census.gov
+N. America,USA,Wisconsin,Ashland County,15617,1044.8,2019,census.gov
+N. America,USA,Wisconsin,Barron County,45229,862.5,2019,census.gov
+N. America,USA,Wisconsin,Brown County WI,261368,529.6,2019,census.gov
+N. America,USA,Wisconsin,Chippewa County WI,63892,1008.1,2019,census.gov
+N. America,USA,Wisconsin,Columbia County WI,57133,765.3,2019,census.gov
+N. America,USA,Wisconsin,Crawford County,16235,570.5,2019,census.gov
+N. America,USA,Wisconsin,Dane County,536078,1196.1,2019,census.gov
+N. America,USA,Wisconsin,Dodge County,87715,875.4,2019,census.gov
+N. America,USA,Wisconsin,Eau Claire County,103514,637.8,2019,census.gov
+N. America,USA,Wisconsin,Fond Du Lac County,102597,719.4,2019,census.gov
+N. America,USA,Wisconsin,Grant County WI,51733,1146.6,2019,census.gov
+N. America,USA,Wisconsin,Green County,36896,583.9,2019,census.gov
+N. America,USA,Wisconsin,Jefferson County WI,84701,556.3,2019,census.gov
+N. America,USA,Wisconsin,Juneau County,26478,766.8,2019,census.gov
+N. America,USA,Wisconsin,Kenosha County,168524,271.9,2019,census.gov
+N. America,USA,Wisconsin,La Crosse County,117894,451.6,2019,census.gov
+N. America,USA,Wisconsin,Lafayette County,16715,633.4,2019,census.gov
+N. America,USA,Wisconsin,Marathon County,135396,1544.6,2019,census.gov
+N. America,USA,Wisconsin,Marquette County,15304,455.6,2019,census.gov
+N. America,USA,Wisconsin,Milwaukee County,951226,241.6,2019,census.gov
+N. America,USA,Wisconsin,Monroe County WI,45771,900.7,2019,census.gov
+N. America,USA,Wisconsin,Ozaukee County,88597,233,2019,census.gov
+N. America,USA,Wisconsin,Pepin County,7265,231.9,2019,census.gov
+N. America,USA,Wisconsin,Racine County,195602,332.4,2019,census.gov
+N. America,USA,Wisconsin,Rock County,162152,718,2019,census.gov
+N. America,USA,Wisconsin,Sauk County,63922,831.3,2019,census.gov
+N. America,USA,Wisconsin,Sheboygan County,115178,511.1,2019,census.gov
+N. America,USA,Wisconsin,Trempealeau County,29499,732.8,2019,census.gov
+N. America,USA,Wisconsin,Vernon County,30633,791.3,2019,census.gov
+N. America,USA,Wisconsin,Vilas County,21751,857.5,2019,census.gov
+N. America,USA,Wisconsin,Walworth County,103074,555.1,2019,census.gov
+N. America,USA,Wisconsin,Washington County WI,134925,430.5,2019,census.gov
+N. America,USA,Wisconsin,Waukesha County,400475,549.5,2019,census.gov
+N. America,USA,Wisconsin,Winnebago County WI,170411,434.4,2019,census.gov
+Oceania,Australia,New South Wales,Sydney,4926000,,2020,UN - World Population Prospects
+Oceania,Australia,Victoria,Melbourne,506100,,2020,UN - World Population Prospects
+Oceania,New Zealand,Auckland,Counties Manukau,563210,,2018,health.govt.nz
+Oceania,New Zealand,Auckland,Waitemata,628970,,2019,health.govt.nz
+S. America,Argentina,Buenos Aires,Moreno,533292,,2019,citypopulation.de
+S. America,Argentina,Buenos Aires,Quilmes,657123,,2019,citypopulation.de
+S. America,Argentina,Chaco,Resistencia,291720,,2010,Argentina 2010 National Census
+S. America,Argentina,Tierra del Fuego,Ushuaia,56956,,2010,Argentina 2010 National Census
+S. America,Brazil,Amazonas BR,Manaus,2400646,,2021,population.city
+S. America,Brazil,Paraiba,Joao Pessoa,878084,,2021,population.city
+S. America,Brazil,Pernambuco,Olinda,396077,,2021,population.city
+S. America,Brazil,Pernambuco,Recife,1717992,,2021,population.city
+S. America,Brazil,Rio de Janeiro,Marica,170576,,2021,population.city
+S. America,Brazil,Rio de Janeiro,Niteroi,507892,,2021,population.city
+S. America,Brazil,Rio de Janeiro,Rio de Janeiro,6669154,,2021,population.city
+S. America,Brazil,Rio Grande do Sul,Canoas BR,363610,,2021,population.city
+S. America,Brazil,Rio Grande do Sul,Esteio,87913,,2021,population.city
+S. America,Brazil,Rio Grande do Sul,Garibaldi,32212,,2021,population.city
+S. America,Brazil,Rio Grande do Sul,Porto Alegre,1562176,,2021,population.city
+S. America,Brazil,Rio Grande do Sul,Taquara,50141,,2021,population.city
+S. America,Brazil,São Paulo,Campinas,1251643,,2021,population.city
+S. America,Brazil,São Paulo,Diadema,446422,,2021,population.city
+S. America,Brazil,São Paulo,Ribeirao Preto,746512,,2021,population.city
+S. America,Brazil,São Paulo,Sao Bernardo do Campo,868493,,2021,population.city
+S. America,Brazil,São Paulo,São Paulo,12769276,,2021,population.city
+S. America,Brazil,Sergipe,Aracaju,715478,,2021,population.city
+S. America,Chile,Araucanía ,Temuco,351493,,2021,population.city
+S. America,Chile,Atacama,Copiapo,194416,,2021,population.city
+S. America,Chile,Biobío ,Concepcion CL,868544,,2021,population.city
+S. America,Chile,Los Lagos,Puerto Montt,261894,,2021,population.city
+S. America,Chile,Magallanes,Porvenir,6062,,2017,citypopulation.de
+S. America,Chile,Magallanes,Punta Arenas,135321,,2021,population.city
+S. America,Chile,Ñuble ,Chillán,207426,,2021,population.city
+S. America,Chile,Region Metropolitana de Santiago,Santiago,7115310,,2021,population.city
+S. America,Colombia,Antioquia,Medellin,2599097,,2021,population.city
+S. America,Colombia,Atlantico,Barranquilla,1248100,,2021,population.city
+S. America,Colombia,Valle del Cauca,Cali,2523925,,2021,population.city
+S. America,Ecuador,Guayas,Guayaquil,2696657,,2021,population.city
+S. America,Ecuador,Imbabura,Otavalo,52753,,2021,population.city
+S. America,Ecuador,Pichincha,Quito,1904973,,2021,population.city
+S. America,Peru,Amazonas PE,Chachapoyas,34024,,2021,population.city
+S. America,Peru,Callao,Callao,1129854,,2020,citypopulation.de
+S. America,Peru,Lima,Lima,10850101,,2021,population.city
